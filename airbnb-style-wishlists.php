@@ -2,16 +2,16 @@
 /**
  * Plugin Name: Airbnb Style Wishlists & Enquiry System
  * Description: Adds Airbnb-style wishlist functionality and site-wide enquiry system for Products.
- * Version: 2.1
+ * Version: 2.2
  * Author: Joseph Lewis
  */
 
-// Test update: v2.1 - This comment proves the update worked!
+// Test update: v2.2 - Auto-update is working! 🎉
 
 if (!defined('ABSPATH')) exit;
 
 // Define plugin version constant
-define('AIRBNB_WISHLISTS_VERSION', '2.1');
+define('AIRBNB_WISHLISTS_VERSION', '2.2');
 
 // ============================================================================
 // UUPD - AUTOMATIC UPDATES FROM GITHUB
