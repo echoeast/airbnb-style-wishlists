@@ -1,0 +1,27 @@
+{
+    "name": "Airbnb Style Wishlists & Enquiry System",
+    "slug": "airbnb-style-wishlists",
+    "version": "2.0",
+    "author": "Joseph Lewis",
+    "author_profile": "",
+    "requires": "5.8",
+    "tested": "6.7",
+    "requires_php": "7.4",
+    "last_updated": "2025-12-07",
+    "homepage": "",
+    "download_url": "https://github.com/echoeast/airbnb-style-wishlists/releases/download/v2.0/airbnb-style-wishlists.zip",
+    "sections": {
+        "description": "Adds Airbnb-style wishlist functionality and site-wide enquiry system for Products. Create multiple wishlists, save products, manage quantities, and send enquiries.",
+        "installation": "1. Upload the plugin folder to /wp-content/plugins/\n2. Activate the plugin through the 'Plugins' menu in WordPress\n3. Follow the README.md for Bricks Builder integration",
+        "changelog": "= 2.0 =\n* Added: Complete enquiry system with quantity controls\n* Added: Send wishlist to enquiry functionality\n* Added: Auto-save quantity changes\n* Added: Real-time count badge updates\n* Added: 8 new AJAX endpoints for enquiry management\n* Added: Bricks query loop for enquiry items\n* Added: 3 new dynamic data tags\n* Added: Comprehensive documentation (README.md, QUICK-REFERENCE.md)\n* Added: CSS styling for all enquiry components\n* Updated: Plugin now supports both wishlists and enquiries\n\n= 1.2 =\n* Initial wishlist functionality\n* Create, rename, delete wishlists\n* Add/remove products from wishlists\n* Bricks Builder integration\n\n= 1.0 =\n* Initial release"
+    },
+    "banners": {
+        "low": "",
+        "high": ""
+    },
+    "icons": {
+        "1x": "",
+        "2x": ""
+    }
+}
+

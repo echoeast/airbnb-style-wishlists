@@ -1,0 +1,34 @@
+= 2.0 - December 7, 2025 =
+* Added: Complete enquiry system with quantity controls
+* Added: Send wishlist to enquiry functionality  
+* Added: Auto-save quantity changes (no update button needed)
+* Added: Real-time count badge updates
+* Added: Site-wide enquiry storage (WordPress options)
+* Added: 8 new AJAX endpoints for enquiry management
+* Added: Bricks query loop 'enquiry_items' for displaying enquiry products
+* Added: 3 new dynamic data tags ({enquiry_quantity}, {enquiry_count}, {enquiry_total_quantity})
+* Added: JavaScript functions for enquiry management
+* Added: Popup notifications for all enquiry actions
+* Added: CSS styling for enquiry components (quantity controls, buttons, badges)
+* Added: Comprehensive documentation (README.md with 400+ lines)
+* Added: QUICK-REFERENCE.md for copy-paste component code
+* Added: IMPLEMENTATION-NOTES.md for developer reference
+* Updated: Plugin description to reflect dual functionality
+* Updated: Version bumped to 2.0 to reflect major feature addition
+
+= 1.2 - Previous Release =
+* Added: Wishlist custom post type
+* Added: Create, rename, delete wishlists
+* Added: Add/remove products from wishlists
+* Added: Bricks Builder integration with custom query loops
+* Added: Dynamic data tags for wishlists
+* Added: Shortcodes for wishlist functionality
+* Added: AJAX-powered interactions
+* Added: Popup notifications for wishlist actions
+* Added: Automatic thumbnail management from product images
+* Added: Scroll position preservation on page reloads
+
+= 1.0 - Initial Release =
+* Initial plugin release
+* Basic wishlist functionality
+
